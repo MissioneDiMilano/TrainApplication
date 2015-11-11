@@ -1,0 +1,65 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplication1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Firenze" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Firenze S. M. Novella</Value>
+    </Setting>
+    <Setting Name="Milano" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Milano Centrale</Value>
+    </Setting>
+    <Setting Name="Torino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Torino Porta Susa</Value>
+    </Setting>
+    <Setting Name="hubs" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Milano Centrale&lt;/string&gt;
+  &lt;string&gt;Modena&lt;/string&gt;
+  &lt;string&gt;Firenze&lt;/string&gt;
+  &lt;string&gt;Bologna&lt;/string&gt;
+  &lt;string&gt;Torino&lt;/string&gt;
+  &lt;string&gt;Padova&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="minLayover" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="preferredStart" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">360</Value>
+    </Setting>
+    <Setting Name="preferredFinish" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">550</Value>
+    </Setting>
+    <Setting Name="timeCostRatio" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="preferredHubTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">660</Value>
+    </Setting>
+    <Setting Name="Bologna" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bologna Centrale</Value>
+    </Setting>
+    <Setting Name="Montevarchi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Montevarchi-Terranuova</Value>
+    </Setting>
+    <Setting Name="Genova" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Genova Piazza Principe</Value>
+    </Setting>
+    <Setting Name="Cities" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="preferredSleepoverTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1230</Value>
+    </Setting>
+    <Setting Name="inputFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\\Users\\SEC2016583\\Desktop\\Recommendations by Kekoolani.xlsx</Value>
+    </Setting>
+    <Setting Name="outputFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">output.txt</Value>
+    </Setting>
+    <Setting Name="sheetName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Master Travel Plans</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
